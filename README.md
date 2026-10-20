@@ -53,6 +53,7 @@ AI art merges machine learning, creativity, and visual expression — transformi
 
 - **[Kaiber](https://www.kaiber.ai/)** – Text-to-video and music visualization tool for generative animation.
 - **[Pika](https://www.pika.art/)** – AI video generation from text or image prompts.
+- **[Seedance 2.0](https://seedance2ai.im/)** – AI video generator with native audio for controllable multi-shot clips from text, images, and video.
 - **[AnimateDiff](https://github.com/guoyww/AnimateDiff)** – Animate diffusion model outputs.
 - **[Runway Gen-2](https://research.runwayml.com/gen2)** – Multi-modal AI video generation (image-to-video, text-to-video).
 
