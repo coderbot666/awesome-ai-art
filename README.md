@@ -41,6 +41,7 @@ AI art merges machine learning, creativity, and visual expression — transformi
 - **[Artbreeder](https://www.artbreeder.com/)** – Blend and morph images collaboratively using generative networks.
 - **[Deep Dream Generator](https://deepdreamgenerator.com/)** – Neural network visualizations and surreal artistic filters.
 - **[PaintsChainer](https://paintschainer.preferred.tech/index_en.html)** – AI auto-coloring tool for anime-style art.
+- **[Seedream 5.5](https://seedream5-5.net/)** – Browser-based AI image generator and editor for text-to-image creation and prompt-based image edits.
 
 ## Text-to-Image Models
 
